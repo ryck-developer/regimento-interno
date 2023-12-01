@@ -11,6 +11,7 @@ const quiz = [
     ],
     goodAnswer: 2, // Índice da resposta correta na array 'answers'
   },
+  
   {
     question: 'De acordo com o Artigo 2º do Regimento Interno da Assembleia Legislativa do estado do Piauí, assinale a alternativa correta sobre as sessões legislativas:',
     answers: [
@@ -24,7 +25,4 @@ const quiz = [
   },
 ];
 
-// Exportando o array 'quiz' para ser acessado por outros arquivos
-module.exports = quiz; // Para Node.js
-// OU
-// export default quiz; // Para uso em navegadores com suporte a ES6 modules
+export default quiz;
