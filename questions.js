@@ -21,7 +21,7 @@ const quiz = [
       'A convocação de sessões extraordinárias é permitida apenas em situações de caráter excepcional e não segue um período específico, podendo ser convocada a qualquer momento.',
       'A Assembleia Legislativa do estado do Piauí pode funcionar no Palácio Petrônio Portella apenas durante os períodos ordinários, devendo se reunir em outro local durante sessões extraordinárias.',
     ],
-    goodAnswer: 1, // Índice da resposta correta na array 'answers'
+    goodAnswer: 1,
   },
 ];
 
