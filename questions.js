@@ -9,7 +9,7 @@ const quiz = [
       'O Artigo 1º indica que a Assembleia Legislativa do estado do Piauí está autorizada a funcionar em qualquer edifício ou localidade, desde que seja aprovado por unanimidade dos Deputados.',
       'Segundo o Artigo 1º do Regimento Interno, a Assembleia Legislativa do estado do Piauí pode funcionar no Palácio Petrônio Portella apenas durante os períodos ordinários, devendo se reunir em outro local durante sessões extraordinárias.',
     ],
-    goodAnswer: 2, // Índice da resposta correta na array 'answers'
+    goodAnswer: 2, 
   },
   
   {
