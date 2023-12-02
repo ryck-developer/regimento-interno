@@ -7,19 +7,26 @@ const quiz = [
       'Certo',
       'Errado',
       ],
-    goodAnswer: 0, 
+    goodAnswer: 0,
+    correcao: `O item está correto, de acordo com o art. 19, § 1º, do Regimento Interno da Assembleia Legislativa do Piauí, que diz:
+
+    "Para tomar parte em qualquer discussão ou votar matéria de sua autoria, o Presidente transmite a presidência ao seu substituto."`
   },
   
   {
-    question: 'De acordo com o Artigo 2º do Regimento Interno da Assembleia Legislativa do estado do Piauí, assinale a alternativa correta sobre as sessões legislativas:',
+    question: `
+    Julgue o item a seguir de acordo com a Lei nº 8.121 de 2023.
+
+ 
+A remuneração dos integrantes do Plano de Cargos, Carreiras e Salários do Quadro de Pessoal de provimento efetivo da Assembleia Legislativa do estado do Piauí é composta pelo subsídio, correspondente ao valor estabelecido nos anexos desta Lei, sem o acréscimo de vantagens pecuniárias.
+    `,
     answers: [
-      'A Assembleia Legislativa se reúne ordinariamente de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro, sendo que as reuniões marcadas para datas incluídas nesses períodos e que coincidam com sábados, domingos ou feriados são transferidas para o primeiro dia útil subsequente.',
-      'A sessão legislativa ordinária pode ser interrompida em 17 de julho, caso a Lei de Diretrizes Orçamentárias estadual não tenha sido aprovada, assim como em 22 de dezembro, se a Lei Orçamentária Anual do Estado ainda estiver pendente de aprovação.',
-      'A eleição da Mesa da Assembleia Legislativa não requer sessão preparatória.',
-      'A convocação de sessões extraordinárias é permitida apenas em situações de caráter excepcional e não segue um período específico, podendo ser convocada a qualquer momento.',
-      'A Assembleia Legislativa do estado do Piauí pode funcionar no Palácio Petrônio Portella apenas durante os períodos ordinários, devendo se reunir em outro local durante sessões extraordinárias.',
-    ],
-    goodAnswer: 1,
+      'Certo',
+      'Errado',
+      ],
+    goodAnswer: 1,    
+    correcao: "O item está incorreto. De acordo com a Lei nº 8.121 de 2023, a remuneração dos integrantes do Plano de Cargos, Carreiras e Salários do Quadro de Pessoal de provimento efetivo da Assembleia Legislativa do estado do Piauí é composta pelo vencimento, que pode ser acrescido de vantagens e acréscimos pecuniários legais². Portanto, a remuneração não é composta apenas pelo subsídio, sem o acréscimo de vantagens pecuniárias, como afirmado no item."
+  
   },
 ];
 
