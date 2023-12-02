@@ -30,7 +30,7 @@ A remuneração dos integrantes do Plano de Cargos, Carreiras e Salários do Qua
   },
   {
     question: "Julgue o item a seguir de acordo com a Lei nº 8.121 de 2023. Os servidores efetivos têm direito à Gratificação por Desempenho (GD). Esta gratificação será concedida automaticamente aos servidores efetivos que estiverem desempenhando suas funções.",
-    answer: [
+    answers: [
       'Certo',
       'Errado',
     ],
