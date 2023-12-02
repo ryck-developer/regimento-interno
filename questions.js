@@ -28,6 +28,15 @@ A remuneração dos integrantes do Plano de Cargos, Carreiras e Salários do Qua
     correcao: "Errado! De acordo com a Lei nº 8.121 de 2023, a remuneração dos integrantes do Plano de Cargos, Carreiras e Salários do Quadro de Pessoal de provimento efetivo da Assembleia Legislativa do estado do Piauí é composta pelo vencimento, que pode ser acrescido de vantagens e acréscimos pecuniários legais². Portanto, a remuneração não é composta apenas pelo subsídio, sem o acréscimo de vantagens pecuniárias, como afirmado no item."
   
   },
+  {
+    question: "Julgue o item a seguir de acordo com a Lei nº 8.121 de 2023. Os servidores efetivos têm direito à Gratificação por Desempenho (GD). Esta gratificação será concedida automaticamente aos servidores efetivos que estiverem desempenhando suas funções.",
+    answer: [
+      'Certo',
+      'Errado',
+    ],
+    goodAnswer: 0,
+    correcao: "Errado! De acordo com a Lei nº 8.121 de 2023, os servidores efetivos têm direito à Gratificação por Desempenho (GD). Esta gratificação será concedida automaticamente aos servidores efetivos que estiverem desempenhando suas funções."
+  },
 ];
 
 export default quiz;
