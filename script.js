@@ -52,6 +52,7 @@ function nextQuestion() {
         indicator.classList.add('good');
         goodAnswers++;
       } else {
+        element.textContent = quiz[questionIndex].correcao;
         element.classList.add('bad');
         indicator.classList.add('bad');
       }
